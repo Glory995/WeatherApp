@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.f25064ad.css",
+    "main.js": "/WeatherApp/static/js/main.bd32fd5f.js",
+    "index.html": "/WeatherApp/index.html",
+    "main.f25064ad.css.map": "/WeatherApp/static/css/main.f25064ad.css.map",
+    "main.bd32fd5f.js.map": "/WeatherApp/static/js/main.bd32fd5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f25064ad.css",
+    "static/js/main.bd32fd5f.js"
+  ]
+}
